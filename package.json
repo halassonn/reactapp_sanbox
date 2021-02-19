@@ -5,9 +5,19 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "4.11.2",
+    "lodash": "4.17.20",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-scripts": "4.0.0"
+    "react-redux": "7.2.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0",
+    "shortid": "2.2.16",
+    "styled-components": "5.2.1",
+    "webfontloader": "1.6.28"
   },
   "devDependencies": {
     "typescript": "4.1.3"
